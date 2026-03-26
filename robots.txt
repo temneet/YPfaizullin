@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /admin/
+Disallow: /api/
+Sitemap: https://streamhub.ru/sitemap.xml
